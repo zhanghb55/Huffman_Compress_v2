@@ -1,8 +1,10 @@
 # Huffman_Compress_v2
 
-编译方式：
+## 编译方式：
 
 在Mac、Linux或者Windows中，在终端中打开src文件夹，然后用g++ Huffman_Compress.cpp -o Huffman_Compress执行即可。
+
+## 运行方式：
 
 在Mac和Linux下，用./Huffman_Compress xxx可以得到xxx的压缩文件xxx.zhbzip。然后再用./Huffman_Compress xxx.zhbzip可以解压得到xxx文件。
 
